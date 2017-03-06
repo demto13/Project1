@@ -9,7 +9,7 @@
     <?php
         $x = 5;
         $y = 10;
-        $z = $x + $z;
+        $z = $x + $y;
         echo "<p>Hello world from php!</p>";
         echo "<p>x is set to {$x}, y is set to {$y} and z shold show their sum: z = {$z}. This should also appear in a new paragraph.</p>";
     ?>
