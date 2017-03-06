@@ -10,6 +10,7 @@
         $x = 5;
         $y = 10;
         $z = $x + $z;
+        echo "Hello world from php!";
         echo "x is set to {$x}, y is set to {$y} and z shold show their sum: z = {$z}. This should also appear in a new paragraph.";
     ?>
 </body>
